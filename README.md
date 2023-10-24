@@ -13,4 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### My GitHub stats:
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bai0012)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### The translation project I participated in for [Servarr](https://translate.servarr.com/engage/servarr/zh_CN/):
+
+
+<a href="https://translate.servarr.com/engage/servarr/zh_CN/">
+<img src="https://translate.servarr.com/widgets/servarr/zh_CN/horizontal-auto.svg" alt="翻译状态" />
+</a>
