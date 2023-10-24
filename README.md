@@ -13,13 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My GitHub stats:
+
+
+## My GitHub stats:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bai0012)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### The translation project I participated in for [Servarr](https://translate.servarr.com/engage/servarr/zh_CN/):
+
+![Metrics](https://metrics.lecoq.io/bai0012?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
+
+## The translation project I participated in for [Servarr](https://translate.servarr.com/engage/servarr/zh_CN/):
 
 
 <a href="https://translate.servarr.com/engage/servarr/zh_CN/">
