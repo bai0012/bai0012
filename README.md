@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![Metrics](https://metrics.lecoq.io/bai0012?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 
-## The translation project I participated in for [Servarr](https://translate.servarr.com/engage/servarr/zh_CN/):
+## The translation project I participated in [Servarr](https://translate.servarr.com/engage/servarr/zh_CN/):
 
 
 <a href="https://translate.servarr.com/engage/servarr/zh_CN/">
